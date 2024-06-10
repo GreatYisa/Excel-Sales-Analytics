@@ -8,7 +8,21 @@
   1.  Calculate the following for every order
       - Revenue
       - Profit
-  2.
+        
+  2. Make reports for:
+      - Revenue trend.
+      - Product by revenue.
+      - Revenue contribution (%) of the product categories.
+      -  Sales team by revenue.
+      -  State by revenue, also showing their population and median income per state.
+        
+  3. Create a dashboard with the report and make it sliceable by:
+      - Product Category.
+        
+  4. Include textbox to highlight the following insight
+      - Which are the 2 top revenue products in January ?
+      - Which sales team made most revenue from Decoravtive in March ?
+      - What is the relationship between revenue, poulation and median income of the states ?
 
 ### Technology used
   - Excel
