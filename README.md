@@ -14,4 +14,7 @@
   - Excel
   
 ### Dashboard Summary
-![Dashboard image](https://github.com/GreatYisa/Power-BI-BG-Sales-Report/blob/main/Screenshot%202024-06-10%20210238.png)
+![Dashboard image](https://github.com/GreatYisa/Excel-Sales-Analytics/blob/main/Screenshot%202024-06-10%20213350.png)
+
+### Dataset Used
+[Dataset]()
