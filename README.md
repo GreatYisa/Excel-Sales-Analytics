@@ -17,4 +17,4 @@
 ![Dashboard image](https://github.com/GreatYisa/Excel-Sales-Analytics/blob/main/Screenshot%202024-06-10%20213350.png)
 
 ### Dataset Used
-[Dataset]()
+[Dataset](https://github.com/GreatYisa/Excel-Sales-Analytics/blob/main/TNMTRetailsalesdocforCapstoneProject.xlsx)
